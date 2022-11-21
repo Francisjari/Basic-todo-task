@@ -1,4 +1,4 @@
-# Mongo CRUD ; Node js Solution
+# Mongo CRUD ; Solution
 
 -Objective : Create a Node.js server using any framework of choice (optional) and appropriate folder structure (routes, controllers, models, etc.) which will perform the following functions:
 
